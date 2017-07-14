@@ -1,0 +1,4 @@
+Output when run on a sample file:
+
+negative        1
+positive        6
